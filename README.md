@@ -1,2 +1,2 @@
-# KoreaUniversity_BRI507
-Spring 2021 Semester - Introduction to Machine Learning
+# BRI507 Assignment#1
+Korea University - [A.Y. 2021 Semester 1] Introduction to Machine Learning
